@@ -1,7 +1,6 @@
 <b> #Roteiro JS
 
 Alert </br>
-
 Variáveis </br>
 Console.log </br>
 Array e dicionário </br>
@@ -25,3 +24,7 @@ server</br>
 onChange</br>
 onLoad</br>
 onmouseover</br>
+
+#Configuração
+Extensão de edição do README no VSCode
+ ° Auto-Open Markdown Preview
