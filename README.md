@@ -26,5 +26,10 @@ onLoad</br>
 onmouseover</br>
 
 #Configuração
-Extensão de edição do README no VSCode
+1>> Extensão de edição do README no VSCode
  ° Auto-Open Markdown Preview
+- Uma vez instalada a extensão, mostrará um Preview no próprio VSCode (ao lado) mostrando como ficará o resultado final do README.md na Web.
+
+2>> Extensão para acompanhar as alterações no GIT:
+ ° GIT HISTORY
+- Depois de instalado, abrir a paleta de comandos F1 e executar o comando “git: View File History”;
