@@ -1,13 +1,13 @@
-<b> #Roteiro JS
+<b> ## Roteiro JS
 <ul> 
 
-> Capítulo 1 
-<li>
-Alert e Console.log </li> 
-##MÉTODOS DE CONVERSÃO DE STRING </br>
+> CAPÍTULO 1 
+
+Alert e Console.log  </br>
+## Métodos de Conversão de String </br>
  String (Frases): Replace, lowerCase, upperCase </br>
 Push, Pop e length </br>
-##Array e dicionário </br>
+## Array e dicionário </br>
 Reverse array </br>
 toString para array </br>
 Join para array </br>
@@ -15,14 +15,14 @@ Condicional (If else) </br>
 Laços de repetição: while e for </br>
 Data </br>
 Function </br>
-##Variáveis: Variavel global / local </br>
-##Eventos - Manipulando a página: </br>
+## Variáveis: Variavel global / local </br>
+## Eventos - Manipulando a página: </br>
 getElement</br>
 onclick</br>
 Dom: document </br>
 InnerHTML</br>
 
-##Redirecionar para outra página:</br>
+## Redirecionar para outra página:</br>
 window.open</br> 
 window.open</br>
 onChange</br>
@@ -31,9 +31,9 @@ onmouseover</br>
 server</br>
 </ul>
 
-#Configuração </br>
+## CONFIGURAÇÃO E EXTENSÕES </br>
 
-## 1 Extensão de edição do README no VSCode
+## Extensão de edição do README no VSCode
  <ul> <li> <b>
 
  > Auto-Open Markdown Preview</b> </li> 
