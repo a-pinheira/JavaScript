@@ -54,6 +54,14 @@ server</br>
 > Tema
 - Dracula
 
+> CAPÍTULO 2
+#Manipualação de Paginas e Arquivos 
+- API manipulação de arquivos locais e remotos
+- Estrutura de objetos do JavaScrip
+- DOM  - manipulação de páginas
+ >> Buscando, manipulando e inserindo elementos HTML
+ >> JSON e PROMISES
+
 ------- 
 By Mony Machado 
 -------
